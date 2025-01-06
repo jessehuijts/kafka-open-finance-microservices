@@ -1,4 +1,4 @@
-# openFinance-kafka-microservice
+# open-finance-kafka-microservice
 
 
 ## Summary
